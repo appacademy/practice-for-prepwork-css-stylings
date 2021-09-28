@@ -6,8 +6,6 @@ Your main focus is to practice using different CSS stylings to familiarize
 yourself with the vast typography, sizing, text styling and use of background
 images that CSS has to offer.
 
-Download the [starter].
-
 ## Phase 1: CSS Styles
 
 Once you have downloaded the starter, open the __index.html__ file in your
@@ -30,5 +28,3 @@ width to your liking. Once saved you will see the App Academy logo at the bottom
 of your page.
 
 a/A logo: https://appacademy.github.io/styleguide/assets/logo/logo-emblem-black-1000.png
-
-[starter]: https://github.com/appacademy/practice-for-week-PREP-css-stylings
