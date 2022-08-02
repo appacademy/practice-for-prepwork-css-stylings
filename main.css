@@ -1,36 +1,36 @@
 h1 {
-    font-size: ;
-    font-family: ;
+    font-size: 36px;
+    font-family: Georgia, serif;
     padding: ;
     margin: ;
     font-weight: ;
     text-decoration: ;
-    color: ;
+    color: 9DDDAA;
     background-color: ;
 }
 
 h2 {
-    font-size: ;
-    font-family: ;
+    font-size: 26px;
+    font-family: Georgia, serif;
     padding: ;
     margin: ;
     font-weight: ;
-    color: ;
+    color: 145381;
     background-color: ;
 }
 
 p {
-    font-family: ;
-    font-size: ;
+    font-family: Georgia, serif;
+    font-size: 12px;
     padding: ;
     margin: ;
-    color: ;
+    color: D70000;
     background-color: ;
 }
 
 .logo {
     background-size: cover;
-    background-image: url();
+    background-image: url(https://appacademy.github.io/styleguide/assets/logo/logo-emblem-black-1000.png);
     background-color: ;
     height: ;
     width: ;
