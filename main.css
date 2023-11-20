@@ -1,37 +1,38 @@
 h1 {
-    font-size: ;
-    font-family: ;
-    padding: ;
-    margin: ;
-    font-weight: ;
-    text-decoration: ;
-    color: ;
-    background-color: ;
+    font-size: 45px ;
+    font-family:'Courier New', Courier, monospace ;
+    padding: 10px;
+    margin: 10px 10px 10px 10px;
+    font-weight: bold;
+    text-decoration:underline;
+    color:chartreuse ;
+    background-color: yellow;
 }
 
 h2 {
-    font-size: ;
-    font-family: ;
-    padding: ;
-    margin: ;
-    font-weight: ;
-    color: ;
-    background-color: ;
+    font-size:x-large ;
+    font-family: 'Courier New', Courier, monospace;
+    padding: auto ;
+    margin: 10px;
+    font-weight: bolder ;
+    color: palevioletred;
+    background-color: blanchedalmond;
 }
 
 p {
-    font-family: ;
-    font-size: ;
-    padding: ;
-    margin: ;
-    color: ;
-    background-color: ;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    font-size: 18px;
+    padding: 10px;
+    margin: 12px 12px;
+    color: black;
+    background-color: blanchedalmond;
 }
 
 .logo {
     background-size: cover;
-    background-image: url();
-    background-color: ;
-    height: ;
-    width: ;
+    background-image: url(https://appacademy.github.io/styleguide/assets/logo/logo-emblem-black-1000.png);
+    background-color: palegreen ;
+    height: 200px;
+    width: 200px;
+    float: right;
 }
